@@ -1,2 +1,1 @@
-# sharestudy
-www.sharestudy.cn
+
